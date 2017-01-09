@@ -9,7 +9,7 @@ https://firstfrc.blob.core.windows.net/frc2017/Manual/2017FRCGameSeasonManual.pd
 
 These teams or former team members are live streaming their builds
 
-https://www.youtube.com/watch?v=m7RNTi1HI3Y&feature=youtu.be&t=4m29s
+http://www.robotin3days.com/ - https://www.youtube.com/watch?v=m7RNTi1HI3Y&feature=youtu.be&t=4m29s
 
 ## 3D Printed Field Pieces
 
