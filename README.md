@@ -11,6 +11,10 @@ These teams or former team members are live streaming their builds
 
 http://www.robotin3days.com/ - https://www.youtube.com/watch?v=m7RNTi1HI3Y&feature=youtu.be&t=4m29s
 
+## FRC Weblinks & Related Sites
+
+[Reddit First Robotics](http://www.reddit.com/r/FRC)
+
 ## 3D Printed Field Pieces
 
 [3d printed gear from Thingiverse](http://www.thingiverse.com/thing:2024108)
