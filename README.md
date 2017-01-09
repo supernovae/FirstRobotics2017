@@ -15,9 +15,9 @@ https://www.youtube.com/watch?v=h3W9sTG8a9k
 
 Source repos for open source projects enabling robotic vision, driving & autonomous modes.
 
-Vision https://github.com/iliterobotics/FRC-Vision
-Vision https://github.com/anidev/frc-visioncv
-Vision https://github.com/FRC-1294/frc2016vision
-Vision https://github.com/apache8080/FRC_VisionTracking_2016
+* Vision https://github.com/iliterobotics/FRC-Vision
+* Vision https://github.com/anidev/frc-visioncv
+* Vision https://github.com/FRC-1294/frc2016vision
+* Vision https://github.com/apache8080/FRC_VisionTracking_2016
 
 Autonomous
