@@ -5,6 +5,12 @@ First Robotics Competition 2017 Steampunk Challenge
 
 https://firstfrc.blob.core.windows.net/frc2017/Manual/2017FRCGameSeasonManual.pdf
 
+## Cheat Sheets
+
+The Rules are huge/long and lots to digest. Here are some "Cheat sheets" to help you:
+
+[Scoring / Points](https://i.redd.it/kumsj9y9se8y.png)
+
 ## Live Streaming
 
 These teams or former team members are live streaming their builds
