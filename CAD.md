@@ -20,6 +20,6 @@ AutoDesk has a ton of solutions available. You can request their CAD or Fusion 3
 
 ## Solidworks
 
-Solidworks offers a discounted Student Edition: http://www.solidworks.com/sw/education/robot-student-design-contest.htm
+Solidworks offers a discounted Student Edition: https://store.solidworks.com/studentstore/default.php
 
 They also offer a Team Sponsorship:  http://www.solidworks.com/sw/education/robot-student-design-contest.htm
