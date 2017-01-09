@@ -1,11 +1,13 @@
-https://github.com/anidev/frc-visioncv
-
 # FirstRobotics2017
 First Robotics Competition 2017 Steampunk Challenge 
 
 ## Rules
 
 https://firstfrc.blob.core.windows.net/frc2017/Manual/2017FRCGameSeasonManual.pdf
+
+## 3D Printed Field Pieces
+
+[3d printed gear from Thingiverse](http://www.thingiverse.com/thing:2024108)
 
 ## Robots / Feature ideas.
 
