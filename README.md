@@ -5,6 +5,12 @@ First Robotics Competition 2017 Steampunk Challenge
 
 https://firstfrc.blob.core.windows.net/frc2017/Manual/2017FRCGameSeasonManual.pdf
 
+## Live Streaming
+
+These teams or former team members are live streaming their builds
+
+https://www.youtube.com/watch?v=m7RNTi1HI3Y&feature=youtu.be&t=4m29s
+
 ## 3D Printed Field Pieces
 
 [3d printed gear from Thingiverse](http://www.thingiverse.com/thing:2024108)
