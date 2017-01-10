@@ -11,6 +11,12 @@ The Rules are huge/long and lots to digest. Here are some "Cheat sheets" to help
 
 [Scoring / Points](https://i.redd.it/kumsj9y9se8y.png)
 
+## AwesomeFRC
+
+Great compilation of links/code/tools for FRC teams!
+
+https://github.com/andrewda/awesome-frc
+
 ## Live Streaming
 
 These teams or former team members are live streaming their builds
