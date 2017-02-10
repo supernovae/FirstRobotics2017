@@ -6,5 +6,5 @@
 
 ## Tutorials
 
-[labVIEW tutorials](https://wpilib.screenstepslive.com/s/4485/m/13811)
-[LabVIEW tutorials & Guides from FRC team](https://frclabviewtutorials.com/)
+* [labVIEW tutorials](https://wpilib.screenstepslive.com/s/4485/m/13811)
+* [LabVIEW tutorials & Guides from FRC team](https://frclabviewtutorials.com/)
